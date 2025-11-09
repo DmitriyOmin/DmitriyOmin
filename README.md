@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Dima
 
-<!--
-**DmitriyOmin/DmitriyOmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fullstack developer focused on building reliable web apps.
+Love clean architecture, automation, and good coffee ☕️
 
-Here are some ideas to get you started:
+WEB • Bots • Backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyOmin&layout=compact&theme=tokyonight)
+
+## 📫 Reach me
+
+[Telegram](https://t.me/dmitriy_omin) • [LinkedIn](https://www.linkedin.com/in/dmitriy-omin-3a6119379)
+
+
+## 🛠️ Tech Stack Overview
+Tools I use for development and daily work
+
+### 🌐 Web
+![Layout](https://skillicons.dev/icons?i=html,css,js)
+
+![Advanced](https://skillicons.dev/icons?i=figma,tailwind,ts)
+
+![React](https://skillicons.dev/icons?i=react,next,vite)
+
+
+### ⚙️ Backend
+![langs](https://skillicons.dev/icons?i=python,go,ts,js)
+
+![Frameworks](https://skillicons.dev/icons?i=django,flask,fastapi,express)
+
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)
+
+
+### 🧰 Tools
+![Etc](https://skillicons.dev/icons?i=linux,bash,nginx)
+
+![Etc](https://skillicons.dev/icons?i=github,docker,git)
+
+
+### 🧠 Productivity
+![Etc](https://skillicons.dev/icons?i=obsidian,notion,discord)

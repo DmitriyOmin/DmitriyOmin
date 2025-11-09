@@ -10,16 +10,6 @@ WEB • Bots • Backend
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyOmin&layout=compact&theme=tokyonight)
 
 
-
-
-
-
-
-
-
-## 🛠️ Tech Stack Overview
-Tools I use for development and daily work
-
 ### 🌐 Web
 ![Layout](https://skillicons.dev/icons?i=html,css,js)
 

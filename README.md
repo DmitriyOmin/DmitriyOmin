@@ -4,12 +4,17 @@ I'm a fullstack developer focused on building reliable web apps.
 Love clean architecture, automation, and good coffee ☕️
 
 WEB • Bots • Backend
+📫 Reach me: [Telegram](https://t.me/dmitriy_omin) • [LinkedIn](https://www.linkedin.com/in/dmitriy-omin-3a6119379)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyOmin&layout=compact&theme=tokyonight)
 
-## 📫 Reach me
 
-[Telegram](https://t.me/dmitriy_omin) • [LinkedIn](https://www.linkedin.com/in/dmitriy-omin-3a6119379)
+
+
+
+
+
 
 
 ## 🛠️ Tech Stack Overview

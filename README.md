@@ -5,9 +5,6 @@ I'm a full-stack developer with over 4 years of experience crafting reliable and
 When I’m not writing code, you’ll probably find me mixing tracks, trying new recipes, or lifting something heavier than my laptop
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyOmin&layout=compact&theme=tokyonight)
-
-
 ### 🌐 Web
 ![Layout](https://skillicons.dev/icons?i=html,css,js)
 

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dima
 
-I'm a full-stack developer with over 4 years of experience crafting reliable and user-focused software. Love clean architecture, automation, and good coffee ☕️
+I'm a full-stack developer with over 6 years of experience crafting reliable and user-focused software. Love clean architecture, automation, and good coffee ☕️
 
 When I’m not writing code, you’ll probably find me mixing tracks, trying new recipes, or lifting something heavier than my laptop
 
